@@ -1,0 +1,10 @@
+/home/baowenxuan/datasets/class0/task2/leaf/2016013282 (1).jpg
+/home/baowenxuan/datasets/class0/task2/leaf/2016013282 (2).jpg
+/home/baowenxuan/datasets/class0/task2/leaf/2016013282 (3).jpg
+/home/baowenxuan/datasets/class0/task2/leaf/2016013282 (4).jpg
+/home/baowenxuan/datasets/class0/task2/leaf/2016013282 (5).jpg
+/home/baowenxuan/datasets/class0/task2/leaf/2016013282 (6).jpg
+/home/baowenxuan/datasets/class0/task2/leaf/2016013282 (7).jpg
+/home/baowenxuan/datasets/class0/task2/leaf/2016013282 (8).jpg
+/home/baowenxuan/datasets/class0/task2/leaf/2016013282 (9).jpg
+/home/baowenxuan/datasets/class0/task2/leaf/2016013282 (10).jpg
